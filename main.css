@@ -236,3 +236,18 @@ body {
     letter-spacing: 0.4px;
     color: #D7D7D7;
 }
+body{
+    height: 100vh;
+  
+}.fb-img{
+    margin-left: 5em;
+    display: flex;
+}img{
+    text-align: center;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+}.fb-img p{
+    
+}
