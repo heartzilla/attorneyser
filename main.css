@@ -614,3 +614,165 @@ h1{
 }.fb-img p{
     
 }
+.HM-obshi{
+    width: 100%;
+    height: 100vh;
+background-color: #161d27;
+}
+.HM-surat{
+  width: 100%;
+  height: 1050px;
+    display: grid;
+grid-template-columns:95%;
+grid-template-rows: 35% auto 15%;
+justify-content: space-around;
+background-color: #161d27;
+}
+.imejoo{
+position: relative;
+top: 150px;
+}
+.HMcon1{
+    width: 100%;
+    height: 30px;
+}
+.HMcon2{
+    display: grid;
+    grid-template-columns: 30% 20%  20% 30%;
+    grid-template-rows: auto;
+}
+.ccco3 hr{
+height: 1px;
+background: #161d27;
+width: 80%;
+}
+.ccco2{ 
+margin-left: 50px;
+}
+.ccco3{
+   margin-left: 50px;
+}
+.ccco4{
+    margin-left: 50px;
+}
+.ccco4 p{
+ margin-left: 80px;
+ position: relative;
+ bottom: 25px; 
+ color: #D7D7D7;
+}
+.hrt{
+    background: #3B434E;
+}
+.copy{
+    height: 32px;
+    width: 348px;
+    padding-top: 20px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0.4px;
+color: #D7D7D7;
+}
+.h1ho{
+    display: flex;
+}
+.victor{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+padding-top: 20px;
+margin-left: 10px;
+line-height: 35px;
+letter-spacing: 0.4px;
+color: #D1B06B;
+}
+.victor:hover{
+    color: #D7D7D7;
+}
+li:hover{
+    color: #D1B06B;
+}
+.copy1{
+    padding-top: 20px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.4px;
+    color: #D7D7D7;
+}
+.fol{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+letter-spacing: 0.4px;
+color: #D1B06B;
+margin-left: 340px;
+padding-top: 20px;
+}
+.h1ho i{
+    color: #D7D7D7;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+.h1ho i:hover{
+    color: #D1B06B;
+}
+a{
+    text-decoration: none;
+}
+.hrt1{
+    background: #D7D7D7;
+    margin-top: 20px;
+}
+.hq{
+    font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 39px;
+letter-spacing: 0.4px;
+color: #FFFFFF;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.ccco1 hr{
+    background: #3B434E;
+    height: 1px;
+    width: 92%;
+}
+.l1{
+    padding-top: 50px;
+}
+li{
+    padding-top: 20px;
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+list-style: none;
+letter-spacing: 0.4px;
+text-transform: capitalize;
+color: #D7D7D7;
+}
+.HM-drn{
+    width: 100%;
+    display: flex;
+}
+.HM-right{
+    margin-left: 90px;
+}
+.ccco2 hr{
+    width: 80%;
+    background: #3B434E;
+    height: 1px;
+}
+
