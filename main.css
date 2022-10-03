@@ -1,1 +1,104 @@
 *{margin: 0;padding: 0;}
+/* Scrollbar of the Browser */
+::-webkit-scrollbar {
+    width: 15px;
+    
+}
+::-webkit-scrollbar-button {
+    background-color: green;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-track {
+    background-color: blue;
+    border-radius: 20px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 20px;
+    background-color: red;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgb(185, 9, 9);
+}
+
+body {
+    animation: colorch 3s infinite alternate linear;
+}
+@keyframes colorch {
+    0% {
+        background-color: red;
+    }
+    25% {
+        background-color: blue;
+    }
+    50% {
+        background-color: black;
+    }
+    75% {
+        background-color: green;
+    }
+    100% {
+        background-color: orangered;
+    }
+}
+
+
+
+.nisa-container {
+    width: 100%;
+    margin: auto;
+}
+.nisa-content img {
+    width: 440px;
+    height: 370px;
+}
+.nisa-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 10px;
+   
+}
+.nisa-content h2 {
+    font-weight: 400;
+}
+.nisa-content h3 {
+    color:#D1B06B;
+    font-size: 23px;
+}
+.nisa-content h4 a {
+    text-decoration: none;
+    color: #D1B06B;
+    font-size: 20px;
+
+}
+.nisa-content-1 {
+    margin: auto;
+    height: 80vh;
+    padding: 30px;
+}
+.nisa-content-2 {
+    margin: auto;
+    height: 80vh;
+    padding: 30px; 
+}
+.nisa-content-3 {
+    margin: auto;
+    height: 80vh;
+    padding: 30px;
+}
+.nisa-content-4 {
+    margin: auto;
+    height: 80vh;
+    padding: 30px;
+}
+.nisa-content-5 { 
+    margin: auto;
+    height: 80vh;
+    padding: 30px;
+}
+.nisa-content-6 {
+    margin: auto;
+    height: 80vh;
+    padding: 30px;
+}
