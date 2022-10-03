@@ -426,3 +426,18 @@ body {
       background-color: crimson;
       color: white;
   }
+body{
+    height: 100vh;
+  
+}.fb-img{
+    margin-left: 5em;
+    display: flex;
+}img{
+    text-align: center;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+}.fb-img p{
+    
+}
