@@ -776,3 +776,139 @@ color: #D7D7D7;
     height: 1px;
 }
 
+.MO-container{
+    display: grid;
+    width: 95%;
+
+}
+.Verh-Mo{
+margin-top: 100px;
+grid-template-columns: 1;
+justify-self:center;
+}
+.Verh-Mo h1{
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+text-align: center;
+letter-spacing: 0.4px;
+color: #161D27;
+}
+.verhimg{
+display: grid;
+justify-items:center;
+}
+.Text-MO h1{
+margin-top: 20px;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.4px;
+color: #909090;
+}
+.prosenti-MO{
+    text-align: center;
+    border: 1px solid #D1B06B;
+}
+.trust-MO{
+
+}
+.hi-MO{
+    margin-top: 50px;
+   display: grid;
+   grid-template-columns: 30% 30% 30%;
+   grid-template-rows: auto;
+ 
+
+  
+  }
+   .hi-Mi{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: auto;
+    
+}
+.glav-mo{
+    padding-bottom: 50px;
+   margin-left:20px ;
+    border-bottom: 1px solid #D7D7D7;
+    display: grid;
+    grid-template-columns: 32% 32% 30%;
+    grid-template-rows:40%;
+    margin-top: 50px;
+    justify-content:center;
+
+}
+.glav-mo h1{
+
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+
+text-align: center;
+letter-spacing: 0.4px;
+
+color: #1F2732;
+
+}
+.glav-mo img{
+    margin-top: 20px;
+}
+.glav-mo h2{
+    margin-left:5px ;
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 20px;
+    letter-spacing: 0.4px;
+    color: #1F2732;
+color: #1F2732;}
+.glav-mo p{
+    margin-left:5px ;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 32px;
+    letter-spacing: 0.4px;
+    text-transform: capitalize;
+
+    color: #909090;
+    
+}
+
+.meet-mo{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+  
+}
+.meet-mo h1{
+ 
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 60px;
+letter-spacing: 0.4px;
+text-transform: capitalize;
+color: #161D27;
+}
+.brend-mo{
+    margin-top:80px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: auto;
+    justify-items:end;
+    margin-bottom: 100px;
+}
+.jik-mo{
+    margin-top:-20px
+}
