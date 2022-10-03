@@ -236,3 +236,193 @@ body {
     letter-spacing: 0.4px;
     color: #D7D7D7;
 }
+.BN-container1 {
+    display: flex;
+    justify-content: center;
+    background-color: #1f2732;
+    height: 945px;
+    align-content: center;
+  }
+  .BN-container-95 {
+    width: 95%;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+    height: 945px;
+    align-content: center;
+  }
+  .BN-container-items1 {
+    display: grid;
+    grid-template-columns: 45% 45%;
+    grid-template-rows: auto;
+    justify-content: center;
+  }
+  .BN-container-items1 {
+    height: 490px;
+  }
+  .BN-container-subitems11 h1 {
+    font-family: "Cormorant Garamond", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 58px;
+    letter-spacing: 0.4px;
+    text-transform: capitalize;
+    color: #ffffff;
+    margin-bottom: 9px;
+  }
+  .BN-container-subitems11 p {
+    font-family: "Outfit", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.4px;
+    color: #d7d7d7;
+    margin-top: 43px;
+    margin-bottom: 37px;
+  }
+  .BN-container-items2 {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: auto;
+  }
+  .BN-container-subitems11 a {
+    font-family: "Outfit", sans-serif;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 35px;
+    text-align: center;
+    letter-spacing: 0.4px;
+    color: #1f2732;
+    padding: 24px 71px;
+    background-color: #d1b06b;
+  }
+  .BN-container-subitems12 {
+    background-color: #ffffff;
+    box-sizing: border-box;
+    padding: 40px;
+    height: 490px;
+  }
+  .BN-container-subitems12 h2 {
+    font-family: "Cormorant Garamond";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 54.6px;
+    letter-spacing: 0.4px;
+    color: #1f2732;
+    margin-bottom: 12px;
+  }
+  .BN-container-subitems12 p {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.4px;
+    color: #909090;
+    margin-bottom: 37px;
+  }
+  .BN-container-subitems12-border {
+    border: 15px solid #d7d7d7;
+    border-radius: 0px;
+    box-sizing: border-box;
+    padding: 50px 40px;
+  }
+  .BN-Call-on-us {
+    display: flex;
+  }
+  .BN-cell-image {
+    margin-right: 15px;
+  }
+  .BN-contacts p {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.4px;
+    color: #1f2732;
+    margin-bottom: 0%;
+  }
+  .BN-contacts h3 {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 42px;
+    letter-spacing: 0.4px;
+    color: #1f2732;
+  }
+  .BN-container2 {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 945px;
+    background-image: url(./images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .BN-container-items2 {
+    background-color: #1f2732;
+    height: 665px;
+    width: 1360px;
+    box-sizing: border-box;
+    padding: 100px;
+  }
+  form {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 22px;
+    letter-spacing: 0.4px;
+    color: #ffffff;
+  }
+  .BN-top-form {
+    display: flex;
+    justify-content: space-between;
+  }
+  .BN-top-form-sub {
+    width: 48%;
+  }
+  input {
+    background-color: #1f2732;
+    border: none;
+    border-bottom: 2px solid #3b434e;
+    width: 100%;
+    margin-bottom: 38px;
+  }
+  #Your-Message{
+      margin-top: 80px;
+  }
+  .BN-container-items2 a {
+    font-family: "Outfit";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 22px;
+    letter-spacing: 0.4px;
+    color: #3b434e;
+    padding: 32px 31px;
+    background-color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    width: 305px;
+    height: 85px;
+  }
+  .BN-appointment{
+      margin: auto;
+  }
+  .BN-appointment a:hover{
+      color: white;
+      background-color: #d1b06b;
+  }
+  .BN-contact-us a:hover{
+      background-color: crimson;
+      color: white;
+  }
